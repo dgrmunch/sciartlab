@@ -977,6 +977,9 @@ a:active {
 	background: #FFF;
 }
 
+body.custom-background {
+    background-size: 100%;
+}
 
  /*---------------------------------------
  **   10.1 Posts and pages                   -----
