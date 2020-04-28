@@ -2205,8 +2205,7 @@ width: -webkit-calc(100% / 4);
  **   Section: Our team;              -----
 -----------------------------------------*/
 .our-team {
-	padding-bottom: 66px;
-	padding-top: 100px;
+	padding-top: 30px;
 	background: #FFFFFF;
 }
 .team-member {
@@ -2264,10 +2263,10 @@ width: -webkit-calc(100% / 4);
 	margin: auto;
 	overflow: hidden;
 	margin-bottom: 25px;
+	border: 0.1px solid lightgray;
 }
 .team-member .profile-pic img {
 	width: 100%;
-	height: 100%;
 }
 .team-member h5 {
 	text-transform: uppercase;
