@@ -3,20 +3,19 @@
 
 ## Current projects
 
+![](images/p2p-schools-small.png)
+
+* [P2P Schools](projects/p2p-schools-notes.md): Project to bring the principles of the **commons-based peer-production** approach to an educational context, embracing respectful practices and concepts like self-guided education, embodied cognition and sustainability. 
+
+## Transition Projects
+
 * **DIY Neuroscience**: 
 
-> DIY Neuroscience can be used for single-subject research, but also in STEAM educational events. 
+DIY Neuroscience can be used for single-subject research, but also in STEAM educational events. 
 
 We are currently studying the potential of **DIY Neuroscience**, designing experiments based on EEG low-cost technology and exploring the possibilities of electroencephalography + educational electronics (Raspberry Pi, Arduino, Makey-Makey...) in STEAM educational events.
 
 We are also interested in single-subject research and the potential of correlating phenomenological investigations with its neurophysiological correlates, as much as the combination of neuroscience with the SciArt/Making approach, both within the context of VR and artistic production. 
-
-
-## Transition Projects
-
-Legacy projects which are currently managed by other organization.
-
-* [Bitmind](https://dgrmunch.github.io/blog/blog/2017/blockchain.html): Decentralized entrepreneurial initiative for the exploration of Open Value Networks (OVN/DAOs) by using blockchain-based technologies. Project transferred to the P2P Foundation.
 
 ## Finished Projects
 
