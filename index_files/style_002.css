@@ -47,21 +47,23 @@ Header
 Content
 --------------------------------------------------------------*/
 .red-btn {
-    background: #5AB996 none repeat scroll 0% 0%;
+    background: black none repeat scroll 0% 0%;
+    border: 1px solid white;
 }
 
 .red-btn:hover {
-    color: #FFF;
-    background: #d8472a none repeat scroll 0% 0%;
+    color: black !important;;
+    background: white;
 }
 
 .green-btn {
-    background: #f7cb00 none repeat scroll 0% 0%;
+    background: black none repeat scroll 0% 0%;
+    border: 1px solid white;
 }
 
 .green-btn:hover {
-    color: #FFF;
-    background: #a78900 none repeat scroll 0% 0%;
+    color: black;
+    background: white;
 }
 
 .focus-box .service-icon .pixeden {
@@ -121,9 +123,10 @@ Content
     content: "";
     width: 75%;
     height: 2px;
-    background: #FFB000 none repeat scroll 0% 0% !important;
+    background: lightgray none repeat scroll 0% 0% !important;
     bottom: -9px;
     left: 12.5%;
+    visibility: hidden;
 }
 
 .our-team * h6{

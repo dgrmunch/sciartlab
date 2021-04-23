@@ -12,6 +12,13 @@ Domain Path: /languages/
 Tags: black, gray, red, white, one-column, two-columns, right-sidebar,fixed-layout,light,front-page-post-form,full-width-template,rtl-language-support,sticky-post,theme-options,responsive-layout, custom-background, custom-menu, editor-style, featured-images, threaded-comments, translation-ready,photoblogging
 */
 
+.profile-pic {
+    filter: grayscale(100%);
+}
+
+.pixeden {
+	filter: blur(50%) ;
+}
 
 .content-left-wrap {
     margin-top: 30px !important;
@@ -40,14 +47,14 @@ dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td {
 	border: 0;
-	font-family: inherit;
-	font-size: 16px;
+	font-family: 'Martel Sans', sans-serif;
+	/*! font-size: 14px !important; */
 	font-style: inherit;
 	font-weight: inherit;
 	margin: 0;
 	outline: 0;
-	padding: 0;
-	vertical-align: baseline;
+	/*! padding: 0; */
+	/*! text-align: justify; */
 }
 *,
 *:before,
@@ -100,7 +107,7 @@ a img {
 	border: 0;
 }
 body {
-	font-family: 'Lato', sans-serif !important;
+	font-family: 'Martel Sans', sans-serif !important;
 	font-size: 14px;
 	color: #808080;
 	font-weight: normal;
@@ -144,7 +151,14 @@ padding-left: 0 !important;
 ::-moz-selection {
 	background: black;
 	color: #FFF;
+	font-family: 'Martel Sans', sans-serif !important;
+	/*! font-size: 20px !important; */
 }
+
+.pixeden {
+    filter: grayscale(100%) !important;;
+}
+
 a {
 	color: #5AB996;
 	-webkit-transition: all 700ms;
@@ -152,6 +166,7 @@ a {
 }
 a,a:hover {
 	text-decoration: none;
+	font-family: 'Martel Sans', sans-serif !important;
 }
 a:hover {
 	color: #cb4332;
@@ -172,7 +187,7 @@ input,
 select,
 textarea {
 	color: #404040;
-	font-family: sans-serif;
+	font-family: 'Martel Sans', sans-serif;
 	font-size: 16px;
 	font-size: 1.6rem;
 	line-height: 1.5;
@@ -204,7 +219,7 @@ address {
 }
 pre {
 	background: #eee;
-	font-family: "Courier 10 Pitch", Courier, monospace;
+	font-family: 'Martel Sans', sans-serif;
 	font-size: 15px;
 	font-size: 1.5rem;
 	line-height: 1.6;
@@ -259,7 +274,7 @@ h1, h2, h3, h4, h5, h6 {
 	clear: both;
 }
 h1,h2 {
-	font-family: 'Montserrat', 'sans-serif';
+	font-family: 'Martel Sans', sans-serif;
 	font-weight: 700;
 	line-height: 35px;
 }
@@ -1113,7 +1128,7 @@ body.custom-background {
 	line-height: 1;
 	padding: .6em 1em .4em;
 	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
-	font-family: sans-serif;
+	font-family: 'Martel Sans', sans-serif;
 	box-shadow:inset 0 1px 0 rgba(255, 255, 255, 0.5), inset 0 15px 17px rgba(255, 255, 255, 0.5), inset 0 -5px 12px rgba(0, 0, 0, 0.05);
 	box-shadow: none;
 	text-shadow: none;
@@ -1349,16 +1364,21 @@ object {
 	line-height: 40px;
 	position: relative;
 	display: inline-block;
-	font-size: 45px;
+	font-size: 40px;
 	text-transform: uppercase;
 	margin-top: 15px;
 	margin-bottom: 0;
+	font-family: 'Martel Sans', sans-serif !important;
+	font-weight: bold !important;
 }
 .section-header h6 {
-	font-size: 16px;
+	font-size: 17px;
 	margin-bottom: 0;
+	margin-top: 40px;
 	color: #808080;
 	padding-top: 0;
+	font-family: 'Martel Sans', sans-serif !important;
+	text-align: justify;
 }
 
 /*---------------------------------------
@@ -1376,7 +1396,7 @@ object {
 	position: relative;
 	-webkit-box-shadow: 0px 5px 11px 0px rgba(50, 50, 50, 0.08);
 	box-shadow: 0px 5px 11px 0px rgba(50, 50, 50, 0.08);
-	padding: 100px 0 100px;
+	padding: 30px 0 30px;
 }
 .header_title {
     float: left;
@@ -1797,10 +1817,14 @@ ul.nav > li.current_page_item.current > a:before {
 	float: none;
     width: auto;
     background: none;
+	font-family: 'Martel Sans', sans-serif !important;
 }
 .focus-box p {
-	font-size: 14px;
-	color: #808080;
+	font-size: 15px;
+	color: black;
+	font-family: 'Martel Sans', sans-serif !important;
+	text-align: justify;
+	/*! font-weight: bold; */
 }
 /*----OTHER FOCUSES ----*/
 .other-focuses {
@@ -2276,7 +2300,8 @@ width: -webkit-calc(100% / 4);
 	margin-top: 15px;
 }
 .team-member .position {
-	font-size: 13px;
+	font-size: 16px;
+	text-align: center;
 }
 .team-member .social-icons {
 	margin-bottom: 25px;
@@ -2609,7 +2634,7 @@ width: -webkit-calc(100% / 4);
 .newsletter h3 {
 	font-size: 28px;
 	text-transform: uppercase;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Martel Sans', sans-serif;
 	font-weight: 700;
 	margin-bottom: 8px;
 }
@@ -2662,7 +2687,7 @@ width: -webkit-calc(100% / 4);
 	padding-top: 15px;
 }
 .feedback-box .client-info .client-name {
-	font-family: 'Homemade Apple', serif;
+	font-family: 'Martel Sans', sans-serif;
 	color: #404040;
 }
 .feedback-box .client-info .client-company {
