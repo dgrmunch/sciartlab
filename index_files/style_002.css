@@ -54,6 +54,7 @@ Content
 .red-btn:hover {
     color: black !important;;
     background: white;
+    border: 1px solid black;
 }
 
 .green-btn {
@@ -62,8 +63,9 @@ Content
 }
 
 .green-btn:hover {
-    color: black;
+    color: black !important;;
     background: white;
+    border: 1px solid black;
 }
 
 .focus-box .service-icon .pixeden {

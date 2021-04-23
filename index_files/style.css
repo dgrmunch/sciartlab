@@ -145,8 +145,8 @@ padding-left: 0 !important;
 }
 /* Selection colours (easy to forget) */
 ::selection {
-	background: #FC6D6D;
-	color: #FFF;
+	background: black !important;;
+	color: white !important;
 }
 ::-moz-selection {
 	background: #000;
