@@ -14,7 +14,7 @@ Years before our research career and before the foundation of the **SciArt Lab**
 
 Some years afterwards, during the collaboration with *Reading Connections*, an American nonprofit organization, we could also learn about social dynamics and population clusters such as the ones of immigrants and refugees in the United States. By assisting Program Coordinators, we had the opportunity to research and develop new ways to conduct students from different backgrounds.
 
-This and other experiences with communities worldwide helped us understand the need of models which could be compatible with other ways of living and adaptable to different cultural contexts.
+These and other experiences with communities worldwide helped us understand the need of models which could be compatible with other ways of living and adaptable to different cultural contexts.
 
 Eventually, our interest in education became something intimately personal. Parenthood led to a conflict with all those social constructs, traditions and systemic dynamics which were radically opposite to what cognitive neuroscience said about learning. 
 
