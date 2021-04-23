@@ -1380,11 +1380,11 @@ object {
 	position: relative;
 	display: inline-block;
 	font-size: 40px;
-	text-transform: uppercase;
+	/*! text-transform: uppercase; */
 	margin-top: 15px;
 	margin-bottom: 0;
 	font-family: 'Martel Sans', sans-serif !important;
-	font-weight: bold !important;
+	font-weight: lighter !important;
 }
 .section-header h6 {
 	font-size: 17px;
@@ -2311,15 +2311,22 @@ width: -webkit-calc(100% / 4);
 	width: 100%;
 }
 .team-member h5 {
-	text-transform: uppercase;
+	
 	color: #404040;
-	font-weight: 700;
+	font-size: 15px;
+	font-weight: bold;
 	position: relative;
 	margin-top: 15px;
+	margin-bottom: 30px;
 }
+
+.team-member a{
+	font-family: 'Martel Sans', sans-serif  !important;	
+}
+
 .team-member .position {
 	font-size: 16px;
-	text-align: center;
+	text-align: justify;
 }
 .team-member .social-icons {
 	margin-bottom: 25px;
