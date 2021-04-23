@@ -149,10 +149,25 @@ padding-left: 0 !important;
 	color: #FFF;
 }
 ::-moz-selection {
-	background: black;
+	background: #000;
 	color: #FFF;
 	font-family: 'Martel Sans', sans-serif !important;
 	/*! font-size: 20px !important; */
+}
+
+.lab-intro{
+	font-family: 'Martel Sans', sans-serif !important;
+	/*! margin-top: 20px; */
+	margin-bottom: -90px !important;
+	text-align: justify;
+	font-size: 20px;
+	max-width: 800px;
+	margin: 50px auto;
+}
+
+
+.company-details img{
+  max-width: 200px !important;	
 }
 
 .pixeden {
@@ -1856,14 +1871,16 @@ ul.nav > li.current_page_item.current > a:before {
  **   Secction:  Separator one        -----
 -----------------------------------------*/
 .separator-one {
-	background: rgba(52, 210, 147, 0.8);
+	background: #2d3032;
 	padding: 100px 0 100px 0;
 }
 .separator-one .green-btn {
-	background: #14a168;
+	background: black;
+	border: white !I;
 }
 .separator-one .green-btn:hover {
-	background: #007345;
+	background: black;
+	border: 1px solid white;
 }
 .separator-one .text {
 	color: #FFF;
