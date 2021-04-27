@@ -172,6 +172,7 @@ padding-left: 0 !important;
 
 .company-details img{
   max-width: 200px !important;	
+  padding-bottom: 20px !important;
 }
 
 .pixeden {
@@ -4881,7 +4882,7 @@ body.custom-background {
 		font-size: 7vw;
 	}
 	.header-content-wrap {
-        padding-top: 50%;
+        padding-top: 20px !important;
     }
     .intro-text {
         font-size: 22px;
