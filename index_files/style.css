@@ -4268,7 +4268,7 @@ article .posted-on a:hover{
 @media (max-width: 1200px) {
 	
 	.header-content-wrap{
-		padding: 235px 0 150px;
+		/* padding: 235px 0 150px; */
 	}
 
 }
@@ -4513,7 +4513,7 @@ body.custom-background {
 @media (max-width: 1200px) {
 	
 	.header-content-wrap{
-		padding: 235px 0 150px;
+		/* padding: 235px 0 150px; */
 	}
 
 }
@@ -4590,7 +4590,7 @@ body.custom-background {
         margin-right: 0;
 	}
 	.header-content-wrap {
-		padding-top: 26%;
+		/* padding-top: 26%; */
 	}
 	.intro-text{
         font-size: 45px;
@@ -4607,7 +4607,7 @@ body.custom-background {
         padding-bottom: 60px;
     }
     .header-content-wrap{
-		padding: 225px 0 150px;
+		/* padding: 225px 0 150px; */
 	}
 
 }
@@ -4731,7 +4731,7 @@ body.custom-background {
 		font-size: 6.5vw;
 	}
     .header-content-wrap {
-    	padding-top: 30%;
+    	/* padding-top: 30%; */
     }
 	.intro-text{
         font-size: 41px;
