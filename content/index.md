@@ -12,4 +12,4 @@
 
 * Meet our [founders, advisors and collaborators](team.md).
 
-![](https://wiki.xmunch.com/images/sciartlogo.png)
+![](../logos/logo-sciartlab-inverted-transparent.png)
