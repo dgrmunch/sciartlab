@@ -12,4 +12,4 @@
 
 * Meet our [founders, advisors and collaborators](team.md).
 
-![](../logos/logo-sciartlab-inverted-transparent.png)
+* Check our courses in [Lab Academy](http://academy.sciartlab.com)
