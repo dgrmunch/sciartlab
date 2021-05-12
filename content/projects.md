@@ -34,9 +34,9 @@
 
 During the last years we have been exploring how the SciArt Lab could contribute to:
 
-a) The use of VR technologies in education.
-b) The use of VR in neuroscience and therapy.
-b) The emergence of the distributed metaverse. 
+* The use of VR technologies in education.
+* The use of VR in neuroscience and therapy.
+* The emergence of the distributed metaverse. 
 
 We are starting a collaboration with the Department of Neuromedicine and Movement Science (Faculty of Medicine and Health Sciences) of the Norwegian University of Science And Technology.
 
@@ -49,7 +49,7 @@ We have also developed several WebVR components with a triple goal:
 * Build the facilities of the SciArt Lab in a virtual space (Decentraland), in order to have a place always accessible, independently of our location in the physical world, for research and education purposes.
 
 
-## DIY Neuroscience
+#### DIY Neuroscience
 
 DIY Neuroscience can be used for single-subject research, but also in STEAM educational events. 
 
