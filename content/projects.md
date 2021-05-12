@@ -3,9 +3,7 @@
 
 ## Current projects
 
-* **Virtual Reality in Neuromedicine**:
-
-We are starting to explore applied therapeutical uses of Virtual Reality in collaboration with the Department of Neuromedicine and Movement Science (Faculty of Medicine and Health Sciences) of the Norwegian University of Science And Technology.
+* **Virtual Reality in Neuromedicine**: We are starting to explore applied therapeutical uses of Virtual Reality in collaboration with the Department of Neuromedicine and Movement Science (Faculty of Medicine and Health Sciences) of the Norwegian University of Science And Technology.
 
 
 * [P2P Schools](projects/p2p-schools-notes.md): Project to bring the principles of the **commons-based peer-production** approach to an educational context, embracing respectful practices and concepts like self-guided education, embodied cognition and sustainability. 
