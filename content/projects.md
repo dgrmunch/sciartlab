@@ -5,13 +5,9 @@
 
 * **Virtual Reality in Neuromedicine**: We are starting to explore applied therapeutical uses of Virtual Reality in collaboration with the Department of Neuromedicine and Movement Science (Faculty of Medicine and Health Sciences) of the Norwegian University of Science And Technology.
 
-
 * [P2P Schools](projects/p2p-schools-notes.md): Project to bring the principles of the **commons-based peer-production** approach to an educational context, embracing respectful practices and concepts like self-guided education, embodied cognition and sustainability. 
 
-
-![](images/p2p-schools-small.png)
-
-* [Building a lab in Decentraland](https://dgrmunch.github.io/blog/blog/2017/building-a-distributed-metaverse.html): After some of the SciArt Lab Metaverse components were published in Github and Twitter, we were mentioned a couple of times in the Week of A-Frame series (supported by Mozilla). Some weeks later, we were contacted by the team of Decentraland offering support for our project. Decentraland is one of the most promising projects of the new blockchain-based startup ecosystem. They raised $24 million during their ICO. Forbes wrote an article about them recently, remarking how new economies may emerge very soon in virtual worlds. It combines the possibilities of open standards, WebVR and decentralized technologies within a conceptual and economic framework: shared ownership of the platform. Since then we started to build the *SciArt Lab Metaverse Branch* as a district in Decentraland. 
+* [Decentraland - Virtual Reality Lab](https://dgrmunch.github.io/blog/blog/2017/building-a-distributed-metaverse.html): After some of the SciArt Lab Metaverse components were published in Github and Twitter, we were mentioned a couple of times in the Week of A-Frame series (supported by Mozilla). Some weeks later, we were contacted by the team of Decentraland offering support for our project. Decentraland is one of the most promising projects of the new blockchain-based startup ecosystem. They raised $24 million during their ICO. Forbes wrote an article about them recently, remarking how new economies may emerge very soon in virtual worlds. It combines the possibilities of open standards, WebVR and decentralized technologies within a conceptual and economic framework: shared ownership of the platform. Since then we started to build the *SciArt Lab Metaverse Branch* as a district in Decentraland. 
 
 ## Finished Projects
 
