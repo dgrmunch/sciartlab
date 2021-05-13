@@ -1,5 +1,5 @@
 
-# SciArt Lab Projects
+# Research
 
 ## Current projects
 
