@@ -35,10 +35,8 @@
 During the last years we have been exploring how the SciArt Lab could contribute to:
 
 * The use of VR technologies in education.
-* The use of VR in neuroscience and therapy.
+* The use of VR in neuroscience.
 * The emergence of the distributed metaverse. 
-
-We are starting a collaboration with the Department of Neuromedicine and Movement Science (Faculty of Medicine and Health Sciences) of the Norwegian University of Science And Technology.
 
 Also, we are studying the use of VR in STEAM education and in the P2P Schools project. 
 
