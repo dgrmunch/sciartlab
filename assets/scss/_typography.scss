@@ -1,0 +1,137 @@
+/* --------------------------------------------
+    Template Defualt Fonts & Fonts Styles
+ ---------------------------------------------- */
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('./assets/fonts/HelveticaNeue.woff2') format('woff2'),
+        url('./assets/fonts/HelveticaNeue.woff') format('woff'),
+        url('./assets/fonts/HelveticaNeue.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('./assets/fonts/HelveticaNeue-Bold.woff2') format('woff2'),
+        url('./assets/fonts/HelveticaNeue-Bold.woff') format('woff'),
+        url('./assets/fonts/HelveticaNeue-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('./assets/fonts/HelveticaNeue-Italic.woff2') format('woff2'),
+        url('./assets/fonts/HelveticaNeue-Italic.woff') format('woff'),
+        url('./assets/fonts/HelveticaNeue-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('./assets/fonts/HelveticaNeue-Thin.woff2') format('woff2'),
+        url('./assets/fonts/HelveticaNeue-Thin.woff') format('woff'),
+        url('./assets/fonts/HelveticaNeue-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('./assets/fonts/HelveticaNeue-Light.woff2') format('woff2'),
+        url('./assets/fonts/HelveticaNeue-Light.woff') format('woff'),
+        url('./assets/fonts/HelveticaNeue-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNeue';
+    src: url('./assets/fonts/HelveticaNeueRegular.woff2') format('woff2'),
+        url('./assets/fonts/HelveticaNeueRegular.woff') format('woff'),
+        url('./assets/fonts/HelveticaNeueRegular.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('./assets/fonts/HelveticaNeue-Medium.woff2') format('woff2'),
+        url('./assets/fonts/HelveticaNeue-Medium.woff') format('woff'),
+        url('./assets/fonts/HelveticaNeue-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+// Font Family Variable with Value
+
+$heading-font: 'Helvetica Neue', sans-serif;
+$body-font: 'Helvetica Neue', sans-serif;
+
+
+body {
+    font-family: $body-font;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 33px;
+    color: #444;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: $heading-font;
+    margin: 0px;
+    font-weight: 700;
+    color: $textcolor;
+}
+
+h1 {
+    font-size: 48px;
+    line-height: 1;
+    &.fs-lg {
+        font-size: 60px;
+        line-height: 70px;
+    }
+}
+h2 {
+    font-size: 36px;
+    line-height: 50px;
+}
+h3 {
+    font-size: 30px;
+    line-height: 44px;
+}
+h4 {
+    font-size: 21px;
+    line-height: 30px;
+}
+h5 {
+    font-size: 18px;
+    line-height: 24px;
+}
+h6 {
+    font-size: 16px;
+    line-height: 21px;
+}
+a {
+    text-decoration: none;
+    font-weight: 400;
+    outline: none !important;
+    cursor: pointer;
+    font-size: 17px;
+    line-height: 35px;
+    @include transition(.4s);
+}
+p {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 33px;
+    margin: 0px;
+}
+

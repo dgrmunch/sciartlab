@@ -1,0 +1,171 @@
+
+.faq-wrap-contact-us {
+	background-image: -moz-linear-gradient( 150deg, rgb(24,155,251) 0%, rgb(0,11,127) 100%);
+	background-image: -webkit-linear-gradient( 150deg, rgb(24,155,251) 0%, rgb(0,11,127) 100%);
+	background-image: -ms-linear-gradient( 150deg, rgb(24,155,251) 0%, rgb(0,11,127) 100%);
+	background-image: linear-gradient( 150deg, rgb(24,155,251) 0%, rgb(0,11,127) 100%);
+	overflow: hidden;
+	
+	&::before {
+		background: $white;
+		position: absolute;
+		left: 0;
+		top: 0;
+		content: "";
+		width: 103%;
+		height: 21%;
+		z-index: -1;
+		transform: scale(1.6) rotate(-7deg);
+	}
+
+	.faq-sec-bg {
+	    position: absolute;
+	    bottom: 0;
+	    z-index: -1;
+	    background-size: contain;
+	    height: 100%;
+	    width: 100%;
+	    content: "";
+	    background-repeat: no-repeat;
+	    background-position: bottom;
+	}
+
+	.faq-contact-shape {
+		.shape {
+
+			&.faqs4 {
+			top: 725px;
+			left: 410px;
+			}
+
+			&.faqs2 {
+			bottom: 520px;
+			left: 310px;
+			}
+
+			&.faqs3 {
+			right: 110px;
+			bottom: 510px;
+			}
+
+			&.faqs1 {
+			bottom: 430px;
+			right: 430px;
+			}
+		}
+	}
+
+}
+
+.faq-accordion {
+    margin-top: 85px;
+    min-height: 490px;
+
+	@media (max-width: 767px) {
+		margin-top: 60px;
+	}
+	
+	@media (max-width: 991px) {
+		margin-top: 70px;
+	}
+	
+	.accordion {
+		color: #444;
+
+		.card-header {
+			padding: 9.5px 28px;
+			border-color: #e4e4ec;
+			background-color: transparent;
+
+			@media (max-width: 480px) {
+				padding: 9px 15px;
+			}
+			
+			a {
+			  display: block;
+			  color: #2e77ff;
+			  font-size: 19px;
+			  line-height: 50px;
+			  position: relative;
+
+				&:after {
+				    content: "\f107";
+
+				    /* <i class="fal fa-angle-down"></i> */
+				    font-family: "Font Awesome 5 Pro";
+				    position: absolute;
+				    right: 0;
+				 }
+
+				  &[aria-expanded="true"]:after {
+				    content: "\f106";
+
+				    /* <i class="fal fa-angle-up"></i> */
+				 }
+
+				 @media (max-width: 767px) {
+				  	font-size: 16px;
+				  	line-height: 30px;
+				 }
+			}
+		}
+
+		.card-body {
+		    padding-left: 28px;
+		}
+	}
+
+}
+
+
+.faq-wraper {
+	background-color: #fff8ed;
+
+	.faq-accordion {
+		margin-top: 50px;
+		min-height: auto;
+	}
+
+	.faq-content {
+		.card {
+			border: none;
+			margin-top: 30px;
+
+			.card-header {
+				background-color: #ffedd2;
+				border: none;
+
+				a {
+				  color: $color5;
+
+					&:after {
+					    content: "\f067";
+					    /* <i class="fal fa-angle-down"></i> */
+					 }
+
+					  &[aria-expanded="true"]:after {
+					    content: "\f068";
+					    /* <i class="fal fa-angle-up"></i> */
+					 }
+				}
+
+			}
+		}
+	}
+
+	.faq-banner {
+		top: 0;
+		left: 0;
+		width: 50%;
+		height: 100%;
+		content: "";
+		position: absolute;
+		background-size: cover;
+		background-position: right center;
+
+		@media (max-width: 1191px) {
+			width: 30%;
+			background-position: center;
+		}
+	}
+}

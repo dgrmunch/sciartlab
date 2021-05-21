@@ -1,0 +1,78 @@
+$btn-text: #232328;
+$color5: #04004d;
+
+.theme-btn {
+	border-radius: 5px;
+	background: $theme-color;
+	font-size: 17px;
+	line-height: 35px;
+	text-transform: capitalize;
+	display: inline-block;
+	padding: 14px 40px;
+	margin-top: 30px;
+	border: 1px solid transparent;
+	box-sizing: border-box;
+	@include transition(.4s);
+	color: #fff;
+
+	
+	@media (max-width: 767px) {
+		padding: 10px 30px;
+		font-size: 15px;
+	}
+
+
+	&.no-fill {
+		background: transparent;
+		border-color: #e1d4d4;
+		color: $btn-text;
+		margin-left: 13px;
+
+		&:hover {
+			background: $second-color;
+			color: $white;
+			border-color: $second-color;
+		}
+
+		@media (max-width: 767px) {
+			margin-left: 0px;
+		}
+	}
+
+	&:hover {
+		background: $second-color;
+		color: $white;
+		border: 1px solid $second-color;
+	}
+
+}
+
+.cta-btn-2 {
+    font-size: 19px;
+    line-height: 35px;
+    margin-top: 59px;
+    display: inline-block;
+    transition: .35s;
+    text-decoration: underline;
+	
+	@media (max-width: 767px) {
+		margin-top: 30px;
+		font-size: 16px;
+	}
+
+}
+
+.cta-btn-2 i {
+    margin-left: 30px;
+}
+
+.home-three {
+	.theme-btn {
+		border-radius: 32.5px;
+	}
+}
+.theme-btn {
+	&.round-btn {
+		border-radius: 32.5px;	
+	}
+}

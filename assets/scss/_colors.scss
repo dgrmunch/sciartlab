@@ -1,0 +1,177 @@
+.home-two, .home-2, .theme-2, .theme-two {
+
+
+	.theme-btn {
+		background: $theme-color-2;
+
+		&:hover {
+			background: $black;
+			color: #FFF;
+			border-color: $black;
+	    }
+
+		&.no-fill {
+			background: transparent;
+		    border-color: #e1d4d4;
+		    color: #232328;
+		    margin-left: 13px;
+
+		    &:hover {
+				background: $black;
+				color: #FFF;
+				border-color: $black;
+		    }
+		}
+	}
+
+	.about-wrap {
+		.about-content {
+			h2 {
+				span {
+					color: $theme-color-2;
+
+					&::before {
+						background: $theme-color-2;
+					}
+				}
+			}
+		}
+	}
+
+
+
+	.services-wrap {
+		 .service-head-content {
+		 	.tag-title {
+		 		color: $theme-color-2;
+		 		background: #fff0ef;
+
+		 		&:hover {
+		 			background: $theme-color-2;
+		 			color: $white;
+		 		}
+		 	}
+		 }
+	}
+
+
+	.case-studies-wrap {
+		.case-study-carousel-wrap {
+			.single-case-study {
+
+
+				&::before {
+					background: $theme-color-2;
+				}
+			}
+			.slick-dots {
+				li.slick-active {
+					button {
+						background: $theme-color-2;
+					}
+				}
+			}
+		}
+	}
+
+
+	.testimonial-wrap {
+		.testimonial-items-list {
+
+			.slick-arrow {
+				&:hover {
+					background: $theme-color-2;
+					color: $white;
+					border-color: $theme-color-2;
+				}
+			}
+
+		}
+	}
+
+	.call-to-action-wrap {
+		background-image: -moz-linear-gradient( 165deg, rgb(104,72,186) 0%, rgb(213,78,139) 100%);
+		background-image: -webkit-linear-gradient( 165deg, rgb(104,72,186) 0%, rgb(213,78,139) 100%);
+		background-image: -ms-linear-gradient( 165deg, rgb(104,72,186) 0%, rgb(213,78,139) 100%);
+	}
+
+
+	.cta-btn-2 {
+		color: $theme-color-2;
+		
+		&:hover {
+			color: $black;
+		}	
+	}
+
+	.faq-wrap-contact-us {
+		background-image: -moz-linear-gradient( 165deg, rgb(104,72,186) 0%, rgb(213,78,139) 100%);
+		background-image: -webkit-linear-gradient( 165deg, rgb(104,72,186) 0%, rgb(213,78,139) 100%);
+		background-image: -ms-linear-gradient( 165deg, rgb(104,72,186) 0%, rgb(213,78,139) 100%);	
+	}
+
+	.contact-us .contact-form form .single-input input, .contact-us .contact-form form .single-input textarea {
+		background: #a966b2;
+		border-color: #ae6cb3;
+	}
+
+	.footer-wrap {
+		.social-profile-links {
+			a {
+				border-color: $theme-color-2;
+				color: $theme-color-2;
+
+				&:hover {
+					background: $theme-color-2;
+				}
+			}
+		}
+	}
+
+
+
+	.contact-us {
+		.contact-form form {
+
+			.single-input {
+
+				input, textarea {
+					color: #fff !important;
+					
+					&::placeholder {
+						color: #fff !important;
+					}
+				}
+			}
+
+			.submit-btn {
+				background-color: $theme-color-2 !important;
+			}
+
+			.form-btn span {
+			    color: #e4d4e6;
+			}
+		}
+	}
+
+
+	.faq-accordion {
+		.accordion {
+			.card-header {
+				a {
+					color: #ea5c50;
+				}
+			}
+		}
+	}
+
+
+}
+
+
+
+.content-area-bg {
+  background-image: -moz-linear-gradient( 90deg, rgb(247,249,254) 0%, rgb(255,255,255) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(247,249,254) 0%, rgb(255,255,255) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(247,249,254) 0%, rgb(255,255,255) 100%);
+}
