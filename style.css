@@ -5067,6 +5067,13 @@ MEDIA QUERIES
     padding: 10px;
   }
 }
+
+#lab-academy-logo{
+    bottom: 40px;
+    position: relative;
+    left: -10px;
+}
+
 /* 680 */
 /* 575 */
 /* 480 */
