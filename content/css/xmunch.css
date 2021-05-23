@@ -334,3 +334,464 @@ g .edgePath{
     font-weight: bold;
     /*! background-color: lightgray; */
 }
+
+
+/* ----------------------------------
+	Header Section One - Styles
+ ------------------------------------ */
+header {
+  top: 30px;
+  width: 100%;
+  z-index: 9999;
+  position: absolute;
+  transition: all 0.6s ease-in-out;
+}
+header .main-menu .menu-style-one ul li {
+  list-style: none;
+  display: inline-block;
+}
+header .main-menu .menu-style-one ul li:last-child a {
+  margin-right: 0;
+}
+header .main-menu .menu-style-one ul li a {
+  display: inline-block;
+  color: #FFF;
+  margin-right: 35px;
+  text-transform: capitalize;
+  line-height: 24px;
+  padding: 15px 0px;
+  transition: all 0.3s ease-in-out;
+}
+header .main-menu .menu-style-one ul li a:hover {
+  color: #f4b930;
+}
+@media (max-width: 1199px) {
+  header .main-menu .menu-style-one ul li a {
+    margin-right: 25px;
+  }
+}
+header .main-menu .menu-style-one ul li .submenu {
+  left: 0;
+  top: 100%;
+  opacity: 0;
+  margin: 0px;
+  padding: 20px 0px;
+  min-width: 190px;
+  position: absolute;
+  background: #FFF;
+  visibility: hidden;
+  transition: all 0.5s ease-in-out;
+  transform: translateY(30px);
+  box-shadow: -1px 2px 19px 3px rgba(14, 0, 40, 0.05);
+}
+header .main-menu .menu-style-one ul li .submenu li {
+  display: block;
+  padding: 0px;
+}
+header .main-menu .menu-style-one ul li .submenu li a {
+  margin: 0;
+  color: #000c80;
+  display: block;
+  padding: 5px 25px;
+  text-align: left;
+  transition: all 0.3s ease-in-out;
+}
+header .main-menu .menu-style-one ul li .submenu li a:hover {
+  color: #f4b930;
+}
+header .main-menu .menu-style-one ul li:hover .submenu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0px);
+  display: block;
+}
+header .main-menu .get-started-btn a {
+  display: inline-block;
+  line-height: 24px;
+  background: #2e77ff;
+  color: #FFF;
+  padding: 16px 33px;
+  border-radius: 5px;
+}
+header .main-menu .get-started-btn a:hover {
+  background: #f4b930;
+  color: #FFF;
+}
+@media (max-width: 1299px) {
+  header .main-menu .get-started-btn a {
+    line-height: 22px;
+    padding: 14px 23px;
+  }
+}
+@media (max-width: 1199px) {
+  header .main-menu .get-started-btn a {
+    line-height: 22px;
+    padding: 12px 25px;
+    font-size: 14px;
+  }
+}
+header .main-menu .get-started-btn.no-fill a {
+  color: #232328;
+  border: 1px solid #232328;
+  background: transparent;
+}
+header .main-menu .get-started-btn.no-fill a:hover {
+  background: #ea5c50;
+  color: #FFF;
+  border-color: #ea5c50;
+}
+@media (max-width: 1050px) {
+  header .main-menu .get-started-btn.no-fill a {
+    padding: 12px 21px;
+  }
+}
+header .main-menu .get-started-btn.no-fill.white a {
+  color: #FFF;
+  border: 1px solid #FFF;
+  background: transparent;
+}
+header .main-menu .get-started-btn.no-fill.white a:hover {
+  background: #f4b930;
+  color: #FFF;
+  border-color: #f4b930;
+}
+@media (max-width: 1050px) {
+  header .main-menu .get-started-btn.no-fill.white a {
+    padding: 12px 21px;
+  }
+}
+header .main-menu .get-started-btn.get-round-btn a {
+  color: #FFF;
+  background: #7f99ab;
+  display: inline-block;
+  border-radius: 27.5px;
+}
+header .main-menu .get-started-btn.get-round-btn a:hover {
+  background: #2e77ff;
+  color: #FFF;
+  border-color: #2e77ff;
+}
+@media (max-width: 1050px) {
+  header .main-menu .get-started-btn.get-round-btn a {
+    padding: 12px 21px;
+  }
+}
+header .main-menu .menu-style-two {
+  margin-right: -80px;
+  z-index: 1;
+  position: relative;
+}
+@media (max-width: 1800px) {
+  header .main-menu .menu-style-two {
+    margin-right: 0px;
+  }
+}
+header .main-menu .menu-style-two ul li {
+  list-style: none;
+  display: inline-block;
+}
+header .main-menu .menu-style-two ul li:last-child a {
+  margin-right: 0;
+}
+header .main-menu .menu-style-two ul li a {
+  display: inline-block;
+  color: #000000;
+  font-size: 15px;
+  margin-right: 43px;
+  line-height: 24px;
+  padding: 22px 0px;
+  text-transform: uppercase;
+  transition: all 0.3s ease-in-out;
+}
+header .main-menu .menu-style-two ul li a:hover {
+  color: #ea5c50;
+}
+@media (max-width: 1299px) {
+  header .main-menu .menu-style-two ul li a {
+    margin-right: 25px;
+    font-size: 14px;
+  }
+}
+@media (max-width: 1450px) {
+  header .main-menu .menu-style-two ul li a {
+    margin-right: 30px;
+  }
+}
+header .main-menu .menu-style-two ul li .submenu {
+  top: 100%;
+  opacity: 0;
+  margin: 0px;
+  padding: 20px 0px;
+  min-width: 195px;
+  position: absolute;
+  background: #FFF;
+  visibility: hidden;
+  transition: all 0.5s ease-in-out;
+  transform: translateY(30px);
+  box-shadow: -1px 2px 19px 3px rgba(14, 0, 40, 0.05);
+}
+header .main-menu .menu-style-two ul li .submenu li {
+  display: block;
+  padding: 0px;
+}
+header .main-menu .menu-style-two ul li .submenu li a {
+  margin: 0;
+  display: block;
+  text-align: left;
+  padding: 5px 25px;
+  color: #ea5c50;
+  transition: all 0.3s ease-in-out;
+}
+header .main-menu .menu-style-two ul li .submenu li a:hover {
+  color: #000000;
+}
+header .main-menu .menu-style-two ul li:hover .submenu {
+  opacity: 1;
+  display: block;
+  visibility: visible;
+  transform: translateY(0px);
+}
+header .main-menu .menu-style-three ul {
+  padding-right: 25px;
+  position: relative;
+  right: 0;
+  text-align: right;
+}
+header .main-menu .menu-style-three ul li {
+  list-style: none;
+  display: inline-block;
+}
+header .main-menu .menu-style-three ul li:last-child a {
+  margin-right: 0;
+}
+header .main-menu .menu-style-three ul li a {
+  color: #FFF;
+  font-size: 15px;
+  line-height: 24px;
+  padding: 22px 0px;
+  margin-right: 43px;
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+  text-transform: uppercase;
+}
+header .main-menu .menu-style-three ul li a:hover {
+  color: #f4b930;
+}
+@media (max-width: 1450px) {
+  header .main-menu .menu-style-three ul li a {
+    margin-right: 30px;
+  }
+}
+@media (max-width: 1299px) {
+  header .main-menu .menu-style-three ul li a {
+    font-size: 14px;
+    margin-right: 25px;
+  }
+}
+header .main-menu .menu-style-three ul li .submenu {
+  top: 100%;
+  opacity: 0;
+  left: 0;
+  margin: 0px;
+  min-width: 195px;
+  padding: 20px 0px;
+  visibility: hidden;
+  position: absolute;
+  background: #FFF;
+  transition: all 0.5s ease-in-out;
+  transform: translateY(30px);
+  box-shadow: -1px 2px 19px 3px rgba(14, 0, 40, 0.05);
+}
+header .main-menu .menu-style-three ul li .submenu li {
+  padding: 0px;
+  display: block;
+}
+header .main-menu .menu-style-three ul li .submenu li a {
+  margin: 0;
+  display: block;
+  text-align: left;
+  padding: 5px 25px;
+  color: #2e77ff;
+  transition: all 0.3s ease-in-out;
+}
+header .main-menu .menu-style-three ul li .submenu li a:hover {
+  color: #f4b930;
+}
+header .main-menu .menu-style-three ul li:hover .submenu {
+  opacity: 1;
+  display: block;
+  visibility: visible;
+  transform: translateY(0px);
+}
+header .main-menu .menu-style-four ul {
+  padding-right: 25px;
+}
+header .main-menu .menu-style-four ul li {
+  list-style: none;
+  display: inline-block;
+}
+header .main-menu .menu-style-four ul li:last-child a {
+  margin-right: 0;
+}
+header .main-menu .menu-style-four ul li a {
+  color: #232328;
+  font-size: 15px;
+  line-height: 24px;
+  padding: 22px 0px;
+  margin-right: 43px;
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+  text-transform: uppercase;
+}
+header .main-menu .menu-style-four ul li a:hover {
+  color: #2e77ff;
+}
+@media (max-width: 1450px) {
+  header .main-menu .menu-style-four ul li a {
+    margin-right: 30px;
+  }
+}
+@media (max-width: 1299px) {
+  header .main-menu .menu-style-four ul li a {
+    font-size: 14px;
+    margin-right: 25px;
+  }
+}
+header .main-menu .menu-style-four ul li .submenu {
+  top: 100%;
+  opacity: 0;
+  left: 0;
+  margin: 0px;
+  min-width: 195px;
+  padding: 20px 0px;
+  visibility: hidden;
+  position: absolute;
+  background: #FFF;
+  transition: all 0.5s ease-in-out;
+  transform: translateY(30px);
+  box-shadow: -1px 2px 19px 3px rgba(14, 0, 40, 0.05);
+}
+header .main-menu .menu-style-four ul li .submenu li {
+  padding: 0px;
+  display: block;
+}
+header .main-menu .menu-style-four ul li .submenu li a {
+  margin: 0;
+  display: block;
+  text-align: left;
+  padding: 5px 25px;
+  color: #2e77ff;
+  transition: all 0.3s ease-in-out;
+}
+header .main-menu .menu-style-four ul li .submenu li a:hover {
+  color: #f4b930;
+}
+header .main-menu .menu-style-four ul li:hover .submenu {
+  opacity: 1;
+  display: block;
+  visibility: visible;
+  transform: translateY(0px);
+}
+
+.sticky {
+  top: 0;
+  width: 100%;
+  position: fixed;
+  padding: 15px 0px 0px 0px;
+  background: #000b7f;
+  animation: sticky 0.8s ease-in-out;
+  box-shadow: 0 13px 35px -12px rgba(35, 35, 35, 0.15);
+}
+.sticky .mean-container .mean-bar {
+  top: -7px;
+  min-height: 0;
+}
+@media (max-width: 767px) {
+  .sticky {
+    position: relative;
+  }
+}
+
+.header-two.sticky {
+  padding: 10px 0px;
+  background: #ea5c50;
+}
+.header-two.sticky .menu-style-two ul li a {
+  color: #FFF;
+}
+.header-two.sticky .menu-style-two ul li a:hover {
+  color: #000000;
+}
+.header-two.sticky .get-started-btn.no-fill a {
+  color: #FFF !important;
+  border-color: #FFF !important;
+}
+.header-two.sticky .get-started-btn.no-fill a:hover {
+  background: #000000;
+  color: #FFF !important;
+  border-color: #000000 !important;
+}
+
+.header-four.sticky .logo img {
+  filter: brightness(111);
+}
+.header-four.sticky .menu-style-four ul li a {
+  color: #FFF;
+}
+.header-four.sticky .menu-style-four ul li a:hover {
+  color: #f4b930;
+}
+
+.header-five .mean-container a.meanmenu-reveal {
+  color: #04004d;
+  border-color: #04004d;
+}
+.header-five .mean-container a.meanmenu-reveal span {
+  background: #04004d;
+}
+.header-five .mean-container .mean-nav {
+  background: #04004d;
+}
+
+.header-five.sticky .logo img {
+  filter: brightness(111);
+}
+
+.social-icons a {
+  width: 37px;
+  height: 37px;
+  color: #747474;
+  transition: 0.3s;
+  line-height: 37px;
+  margin-right: 5px;
+  text-align: center;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: #FFF;
+  box-shadow: 0px 9px 21px 0px rgba(0, 0, 0, 0.05);
+}
+.social-icons a:hover {
+  color: #FFF;
+  background-color: #785fff;
+}
+
+@keyframes sticky {
+  0% {
+    opacity: 0;
+    margin-top: -120px;
+  }
+  50% {
+    opacity: 0;
+    margin-top: -60px;
+  }
+  100% {
+    opacity: 1;
+    margin-top: 0;
+  }
+}
+.header-five.sticky {
+  background-color: #04004d;
+}
+.header-five.sticky .menu-style-two ul li a {
+  color: #FFF;
+}
