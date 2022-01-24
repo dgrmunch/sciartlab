@@ -1,8 +1,6 @@
 
 ![](../images/mutant9514.png)
 
-## 0x60e4d786628fea6478f785a6d7e704777c86a7c6/9514
-
 **Mutant #9514** was acquired by the **SciArt Lab** in 2021. This event implies ownership over the artwork, Intelectual Property Rights and Membership to [Bored Ape Yatch Club](https://boredapeyachtclub.com/).
 
 <br>
