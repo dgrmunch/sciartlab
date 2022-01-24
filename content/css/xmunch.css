@@ -698,7 +698,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
   width: 100%;
   position: fixed;
   padding: 15px 0px 0px 0px;
-  background: #000b7f;
+  background: black;
   animation: sticky 0.8s ease-in-out;
   box-shadow: 0 13px 35px -12px rgba(35, 35, 35, 0.15);
 }

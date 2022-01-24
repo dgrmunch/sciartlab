@@ -318,8 +318,8 @@ text-decoration: underline;
  
  .navbar-brand {
    height: 60px;
-   padding-top: 1px;
-   padding-bottom: 0px;
+   padding-top: 3px;
+   padding-bottom: 10px;
  }
  
  .navbar{
