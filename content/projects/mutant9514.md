@@ -13,7 +13,7 @@
 
 * **Mutant #9514** was licensed to **The Writer's Room** on **Jan 1, 2022**. New York Times bestseller writer **Neil Strauss**, in collaboration with the community of license holders, is working on the first blockchain-based collaborative writing book of history. **[[More info](https://www.jenkinsthevalet.com/press)]**
 
-* Mutants and superheroes share some characteristics. Both can do amazing things. And that is the reason for **Mutant #9514** to support the campaign [*Mario wants to run*](https://www.instagram.com/marietequierecorrer/?hl=en) in a very active way. This is a campaign to raise funds and awarensess about **Infantile Cerebral Palsy** and help little superheroes like Mario, whose dream is to be able to run one day. Run with us! **#mariowantstorun**
+* Mutants and superheroes share some characteristics. Both can do amazing things. And that is the reason for **Mutant #9514** to support the campaign [*Mario wants to run*](https://www.instagram.com/marietequierecorrer/?hl=en) in a very active way. This is a campaign to raise funds and awareness about **Infantile Cerebral Palsy** and help little superheroes like Mario, whose dream is to be able to run one day. Run with us! **#mariowantstorun**
 
 * In January 2022, **SciArt Lab** authorized [Perris Mackey](https://www.instagram.com/p_ThaNerd/), American collage artist, to use **Mutant #9514** in a piece of analog art. 25% of the benefits will be donated to [R.A.K.E (Random Acts of Kindness Everywhere)](http://www.rakenow.org/), a 501c3 non-profit organization based in Cleveland, Ohio. Additionally, Perris Mackey's artwork will include an easter egg with the hashtag **#mariowantstorun** to support the campaign.
 
