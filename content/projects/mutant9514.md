@@ -1,9 +1,9 @@
 
 ![](../images/mutant9514.png)
 
-**Mutant #9514** was acquired by the **SciArt Lab** in 2021, with the implicit ownership over the artwork, intelectual property rights and membership to [Bored Ape Yatch Club](https://boredapeyachtclub.com/). Since then, **Mutant #9514** has became an altruist mutant ape wanting to use his brand to support artists, experimental projects and social causes. 
+**Mutant #9514** was acquired by the **SciArt Lab** in 2021, with implicit ownership over the artwork, intelectual property rights and membership to [Bored Ape Yatch Club](https://boredapeyachtclub.com/). Since then, **Mutant #9514** has became an altruist mutant ape wanting to use his brand to support artists, experimental projects and social causes. 
 
-**Mutant #9514** is an example of how an NFT can raise awareness about social issues and improve people's lives. To learn more about everything our mutant has accomplished, keep reading.
+**Mutant #9514** is an example of how one NFT can raise awareness about social issues and improve people's lives. To learn more about everything our mutant has accomplished, keep reading.
 
 <br>
 
