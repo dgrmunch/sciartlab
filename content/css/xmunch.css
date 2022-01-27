@@ -113,6 +113,7 @@ blockquote {
 
 a {
     color: black;
+    text-decoration: underline;
 }
 
 #md-content a[href$=".md"], #children-list a[href$=".md"] {
