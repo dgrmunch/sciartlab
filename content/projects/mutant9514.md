@@ -7,20 +7,29 @@ As a non-human entity who lives in the blockchain, **Mutant #9514** can be a goo
 
 **Mutant #9514** is an example of how one NFT can be used for a fascinating variety of purposes. For example, for raising awareness about social issues like **Infantile Cerebral Palsy** and improve people's lives. To learn more about everything our mutant has accomplished, keep reading.
 
-<br>
 
 ### History
-
-<br>
-
-#### Writing a book
-
-* **Mutant #9514** was licensed to **The Writer's Room** on **Jan 1, 2022**. New York Times bestseller writer **Neil Strauss**, in collaboration with the community of license holders, is working on the first blockchain-based collaborative writing book of history. **[[More info](https://www.jenkinsthevalet.com/press)]**
 
 
 #### Non-Profit Social Campaigns
 
-* Mutants and superheroes share some characteristics. Both can do amazing things. And that is the reason for **Mutant #9514** to be the image of the first campaign in the *Metaverse* to raise funds and awareness about **Infantile Cerebral Palsy** and help little superheroes like Mario, a five-years-old kid whose dream is to be able to run one day. The campaign **#mariowantstorun** has a virtual space in Decentraland and people all over the world have been able to participate. More information:
+**SciArt Lab** included [Marco Fine](https://www.instagram.com/p_ThaNerd/), Italian mural artist, in our **New Talents** program. Marco Fine was authorized to use **Mutant #9514** in his street art. He painted an amazing mural of our mutant in Florence (Italy). Marco accepted to include the hashtag **#mariowantstorun** to support our campaign for **Infantile Cerebral Palsy** (described below).
+
+![](../images/mario/marco.png)
+
+Mutants and superheroes share some characteristics. Both can do amazing things. And that is the reason for **Mutant #9514** to be the image of the first campaign in the *Metaverse* to raise funds and awareness about **Infantile Cerebral Palsy** and help little superheroes like Mario, a five-years-old kid whose dream is to be able to run one day. 
+
+![](../images/mario/decentraland4.png) ![](../images/mario/mario2.png) ![](../images/mario/decentraland_.png) 
+
+
+The campaign **#mariowantstorun** has a virtual space in Decentraland and people all over the world are showing their support.
+
+
+![](../images/mario/twitter.png)
+
+**The best way to contribute to the campaign is becoming directly a Patron of Mario's association here: https://www.patreon.com/mariowantstorun**
+
+* More information about the campaign:
 
     * See the reactions of the community and their [virtual selfies with Mario](https://twitter.com/search?q=%23mariowantstorun&src=typed_query) on Twitter.
     * Follow [Mario's Instagram](https://www.instagram.com/marietequierecorrer/?hl=en) and see how his life is.
@@ -30,11 +39,19 @@ As a non-human entity who lives in the blockchain, **Mutant #9514** can be a goo
 
 * In January 2022, **SciArt Lab** authorized [Perris Mackey](https://www.instagram.com/p_ThaNerd/), American collage artist, to use **Mutant #9514** in a piece of analog art. 25% of the benefits will be donated to [R.A.K.E (Random Acts of Kindness Everywhere)](http://www.rakenow.org/), a 501c3 non-profit organization based in Cleveland, Ohio. Additionally, Perris Mackey's artwork will include an easter egg with the hashtag **#mariowantstorun** to support the campaign.
 
-* The same month, **SciArt Lab** included [Marco Fine](https://www.instagram.com/p_ThaNerd/), Italian mural artist, in our **New Talents** program. Marco Fine has been authorized to use **Mutant #9514** in his street art. He is currently painting a mural in Italy based on this mutant including the hashtag to support our campaign.
 
-* In February 2022, [Moonie](https://twitter.com/Moonie69420), an American artist from Colorado, will start oil painting a mutant with the hashtag  **#mariowantstorun**. The artwork will be sold in an auction and the benefits will be donated to the cause.
+* The same month, [Moonie](https://twitter.com/Moonie69420), an American artist from Colorado, started oil painting a mutant with the hashtag  **#mariowantstorun**. The artwork will be sold in an auction and the benefits will be donated to the cause.
+
+
+![](../images/mario/moonie.png) 
+
+#### Writing a book
+
+* **Mutant #9514** was licensed to **The Writer's Room** on **Jan 1, 2022**. New York Times bestseller writer **Neil Strauss**, in collaboration with the community of license holders, is working on the first blockchain-based collaborative writing book of history. **[[More info](https://www.jenkinsthevalet.com/press)]**
+
 
 ... And more news to come :)
+
 
 <br>
 <br>
