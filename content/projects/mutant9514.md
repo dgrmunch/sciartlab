@@ -1,9 +1,11 @@
 
 ![](../images/mutant9514.png)
 
-**Mutant #9514** was acquired by the **SciArt Lab** in 2021, with implicit ownership over the artwork, intelectual property rights and membership to [Bored Ape Yatch Club](https://boredapeyachtclub.com/). Since then, **Mutant #9514** has became an altruist mutant ape wanting to use his brand to support artists, experimental projects and social causes. 
+**Mutant #9514** is a NFT (Non Fungible Token) acquired by [**SciArt Lab**](https://www.sciartlab.com/) in 2021, with implicit ownership over the artwork, intelectual property rights and membership to [Bored Ape Yatch Club](https://boredapeyachtclub.com/). Since then, **Mutant #9514** has become an important part of our brand, turning into something like a mascot for our organization. 
 
-**Mutant #9514** is an example of how one NFT can raise awareness about social issues and improve people's lives. To learn more about everything our mutant has accomplished, keep reading.
+As a non-human entity who lives in the blockchain, **Mutant #9514** can be a good official face to represent everything we do commercially, but also to personify altruistic actions without a specific human face behind. In that regard, **SciArt Lab** decided to use the power of this image for *pro bono* work. Specially to support artists, experimental projects and social causes. 
+
+**Mutant #9514** is an example of how one NFT can be used for a fascinating variety of purposes. For example, for raising awareness about social issues like **Infantile Cerebral Palsy** and improve people's lives. To learn more about everything our mutant has accomplished, keep reading.
 
 <br>
 
@@ -11,9 +13,14 @@
 
 <br>
 
+#### Writing a book
+
 * **Mutant #9514** was licensed to **The Writer's Room** on **Jan 1, 2022**. New York Times bestseller writer **Neil Strauss**, in collaboration with the community of license holders, is working on the first blockchain-based collaborative writing book of history. **[[More info](https://www.jenkinsthevalet.com/press)]**
 
-* Mutants and superheroes share some characteristics. Both can do amazing things. And that is the reason for **Mutant #9514** to start the first campaign in the metaverse to raise funds and awareness about **Infantile Cerebral Palsy** and help little superheroes like Mario, a five-years-old kid whose dream is to be able to run one day. The campaign **#mariowantstorun** has a virtual space in Decentraland and people all over the world have been able to participate. More information:
+
+#### Non-Profit Social Campaigns
+
+* Mutants and superheroes share some characteristics. Both can do amazing things. And that is the reason for **Mutant #9514** to be the image of the first campaign in the *Metaverse* to raise funds and awareness about **Infantile Cerebral Palsy** and help little superheroes like Mario, a five-years-old kid whose dream is to be able to run one day. The campaign **#mariowantstorun** has a virtual space in Decentraland and people all over the world have been able to participate. More information:
 
     * See the reactions of the community and their [virtual selfies with Mario](https://twitter.com/search?q=%23mariowantstorun&src=typed_query) on Twitter.
     * Follow [Mario's Instagram](https://www.instagram.com/marietequierecorrer/?hl=en) and see how his life is.
