@@ -1223,7 +1223,7 @@ section {
 }
 
 #scrollUp {
-  background-color: #2e77ff;
+  background-color: #f4b930;
   border-radius: 50%;
   bottom: 20px;
   color: #ffffff;
@@ -1447,8 +1447,8 @@ section {
 }
 
 .theme-btn {
-  border-radius: 5px;
-  background: #2e77ff;
+  border-radius: 6px;
+  background: #f4b930;
   font-size: 17px;
   line-height: 35px;
   text-transform: capitalize;
@@ -1696,7 +1696,7 @@ header .main-menu .menu-style-one ul li:hover .submenu {
 header .main-menu .get-started-btn a {
   display: inline-block;
   line-height: 24px;
-  background: #2e77ff;
+  background: #f4b930;
   color: #FFF;
   padding: 16px 33px;
   border-radius: 5px;
@@ -1755,9 +1755,9 @@ header .main-menu .get-started-btn.get-round-btn a {
   border-radius: 27.5px;
 }
 header .main-menu .get-started-btn.get-round-btn a:hover {
-  background: #2e77ff;
+  background: #f4b930;
   color: #FFF;
-  border-color: #2e77ff;
+  border-color: #f4b930;
 }
 @media (max-width: 1050px) {
   header .main-menu .get-started-btn.get-round-btn a {
@@ -1896,7 +1896,7 @@ header .main-menu .menu-style-three ul li .submenu li a {
   display: block;
   text-align: left;
   padding: 5px 25px;
-  color: #2e77ff;
+  color: #f4b930;
   transition: all 0.3s ease-in-out;
 }
 header .main-menu .menu-style-three ul li .submenu li a:hover {
@@ -1929,7 +1929,7 @@ header .main-menu .menu-style-four ul li a {
   text-transform: uppercase;
 }
 header .main-menu .menu-style-four ul li a:hover {
-  color: #2e77ff;
+  color: #f4b930;
 }
 @media (max-width: 1450px) {
   header .main-menu .menu-style-four ul li a {
@@ -1965,7 +1965,7 @@ header .main-menu .menu-style-four ul li .submenu li a {
   display: block;
   text-align: left;
   padding: 5px 25px;
-  color: #2e77ff;
+  color: #f4b930;
   transition: all 0.3s ease-in-out;
 }
 header .main-menu .menu-style-four ul li .submenu li a:hover {
@@ -1983,7 +1983,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
   width: 100%;
   position: fixed;
   padding: 15px 0px;
-  background: #000b7f;
+  background: #000000;
   animation: sticky 0.8s ease-in-out;
   box-shadow: 0 13px 35px -12px rgba(35, 35, 35, 0.15);
 }
@@ -2174,7 +2174,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
   border-color: #f4b930;
 }
 .hero-one .single-hero-slide .hero-slide-content a:hover {
-  background: #2e77ff;
+  background: #f4b930;
   color: #FFF;
 }
 @media (max-width: 991px) {
@@ -2350,7 +2350,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
   padding-top: 274px;
   padding-bottom: 380px;
   min-height: 1020px;
-  background-image: linear-gradient(165deg, #189bfb 0%, #000b7f 100%);
+  background-image: linear-gradient(165deg, #000000 50%, #f4b930 100%);
 }
 @media (max-width: 1200px) {
   .hero-slider-three .single-hero-slide {
@@ -2416,7 +2416,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
 }
 .hero-slider-three .single-hero-slide .slide-content .slide-round-btn:hover {
   color: #FFF;
-  background: #2e77ff;
+  background: #f4b930;
 }
 @media (max-width: 991px) {
   .hero-slider-three .single-hero-slide .slide-content .slide-round-btn {
@@ -2573,7 +2573,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
   display: inline-block;
   box-sizing: border-box;
   transition: all 0.4s ease-in-out;
-  background: #2e77ff;
+  background: #f4b930;
   text-transform: capitalize;
   border: 1px solid transparent;
 }
@@ -2879,7 +2879,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
 }
 .about-wrap .about-content h2 span {
   position: relative;
-  color: #2e77ff;
+  color: #f4b930;
   display: inline-block;
 }
 .about-wrap .about-content h2 span::before {
@@ -2889,7 +2889,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
   height: 5px;
   right: -80px;
   position: absolute;
-  background: #2e77ff;
+  background: #f4b930;
   transform: translateY(-50%);
 }
 @media (max-width: 480px) {
@@ -3259,7 +3259,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
   display: block;
   font-size: 40px;
   line-height: 85px;
-  color: #2e77ff;
+  color: #f4b930;
 }
 @media (max-width: 480px) {
   .services-wrap .single-service-item .service-icon {
@@ -3363,7 +3363,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
 .services-section-two .services-item-grid .single-service-item .service-icon i {
   font-size: 40px;
   line-height: 102px;
-  color: #2e77ff;
+  color: #f4b930;
 }
 @media (max-width: 450px) {
   .services-section-two .services-item-grid .single-service-item .service-icon {
@@ -3399,17 +3399,17 @@ header .main-menu .menu-style-four ul li:hover .submenu {
   min-height: 70px;
   font-weight: 500;
   padding: 0px 57px;
-  color: #1166ce;
+  color: white;
   line-height: 70px;
   border-radius: 35px;
   display: inline-block;
-  background-color: #e2eeff;
+  background-color: black;
   transition: all 0.4s ease-in-out;
   box-shadow: 0px 5px 38px 0px rgba(5, 60, 161, 0.05);
 }
 .services-section-two .services-item-grid .more-service-btn a:hover {
   color: #FFF;
-  background: #2e77ff;
+  background: #f4b930;
 }
 @media (max-width: 767px) {
   .services-section-two .services-item-grid .more-service-btn a {
@@ -3457,16 +3457,16 @@ header .main-menu .menu-style-four ul li:hover .submenu {
   line-height: 40px;
   padding: 0px 28px;
   text-align: center;
-  background: #e8edfd;
+  background: #fdf2d7;
   border-radius: 20px;
   margin-bottom: 26px;
-  color: #2e77ff;
+  color: #f4b930;
   display: inline-block;
   transition: all 0.4s ease-in-out;
 }
 .tag-title:hover {
   color: #FFF;
-  background: #2e77ff;
+  background: #f4b930;
 }
 
 .case-studies-wrap .case-study-carousel-wrap .single-case-study {
@@ -3491,7 +3491,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
   width: 100%;
   height: 100%;
   z-index: 1;
-  background: #2e77ff;
+  background: #f4b930;
   transition: all 0.45s ease-in-out;
   opacity: 0;
   visibility: hidden;
@@ -3606,7 +3606,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
 }
 .case-studies-wrap .case-study-carousel-wrap .slick-dots li.slick-active button {
   border-radius: 50%;
-  background: #2e77ff;
+  background: #f4b930;
   width: 12px;
   height: 12px;
   transition: all 0.2s ease-in-out;
@@ -3847,9 +3847,9 @@ header .main-menu .menu-style-four ul li:hover .submenu {
   }
 }
 .testimonial-wrap .testimonial-items-list .slick-arrow:hover {
-  background: #2e77ff;
+  background: #f4b930;
   color: #FFF;
-  border-color: #2e77ff;
+  border-color: #f4b930;
   cursor: pointer;
 }
 .testimonial-wrap .testimonial-items-list .fa-chevron-right.slick-arrow {
@@ -3928,7 +3928,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
 }
 .testimonial-wrap .testimonial-items-list.testimonial-two .slick-dots li.slick-active button {
   border-radius: 50%;
-  background: #2e77ff;
+  background: #f4b930;
   width: 12px;
   height: 12px;
   transition: all 0.2s ease-in-out;
@@ -3984,7 +3984,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
 }
 
 .call-to-action-wrap {
-  background-image: linear-gradient(165deg, #189bfb 0%, #000b7f 100%);
+  background-image: linear-gradient(9deg, #000000 0%, #000000 100%);
 }
 .call-to-action-wrap .cta-banner {
   padding: 80px 0px;
@@ -4024,7 +4024,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
   }
 }
 .call-to-action-wrap .cta-banner .cta-btn:hover {
-  background: #2e77ff;
+  background: #f4b930;
 }
 @media (max-width: 767px) {
   .call-to-action-wrap .cta-banner .cta-btn {
@@ -4096,7 +4096,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
 }
 .call-to-action-wrap.cta-two-wrap .cta-banner .cta-btn {
   border-radius: 37.5px;
-  border: 1px solid #547cc7;
+  border: 1px solid #f4b930;
   background-color: transparent;
   color: #FFF;
 }
@@ -4529,7 +4529,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
 }
 
 .faq-wrap-contact-us {
-  background-image: linear-gradient(150deg, #189bfb 0%, #000b7f 100%);
+  background-image: linear-gradient(150deg, #0000000 0%, #000000 100%);
   overflow: hidden;
 }
 .faq-wrap-contact-us::before {
@@ -4600,7 +4600,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
 }
 .faq-accordion .accordion .card-header a {
   display: block;
-  color: #2e77ff;
+  color: #f4b930;
   font-size: 19px;
   line-height: 50px;
   position: relative;
@@ -4816,7 +4816,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
 }
 .footer-wrap .social-profile-links a {
   border-width: 1px;
-  border-color: #2e77ff;
+  border-color: #f4b930;
   border-style: solid;
   border-radius: 50%;
   background-color: #FFF;
@@ -4838,7 +4838,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
 }
 .footer-wrap .social-profile-links a:hover {
   border-radius: 50%;
-  background-color: #2e77ff;
+  background-color: #f4b930;
   color: #FFF;
 }
 @media (max-width: 991px) {
@@ -4968,7 +4968,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
 }
 
 .section-btn-link a {
-  color: #2e77ff;
+  color: #f4b930;
   transition: all 0.3s ease-in-out;
 }
 .section-btn-link a:hover {
