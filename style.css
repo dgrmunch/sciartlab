@@ -2349,8 +2349,8 @@ header .main-menu .menu-style-four ul li:hover .submenu {
   overflow: hidden;
   position: relative;
   padding-top: 274px;
-  padding-bottom: 380px;
-  min-height: 1020px;
+  padding-bottom: 39px;
+  /* min-height: 1020px; */
   background-image: linear-gradient(165deg, #000000 50%, #f4b930 100%);
 }
 @media (max-width: 1200px) {
@@ -2459,7 +2459,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
   bottom: -2px;
   z-index: 1;
   width: 100%;
-  height: 229px;
+  /* height: 229px; */
   position: absolute;
   background-repeat: no-repeat;
   background-size: cover;
