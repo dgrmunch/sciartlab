@@ -4,7 +4,7 @@
   height: 100%;
   z-index: 999999999999;
   text-align: center;
-  background: #000D81;
+  background: white;
   display: block;
   overflow: hidden; }
   .pre-loader .loader {
