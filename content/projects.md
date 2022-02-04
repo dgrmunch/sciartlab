@@ -3,7 +3,7 @@
 
 ## Current projects
 
-* **Virtual Reality in Neuromedicine and Therapy**: We are exploring applied therapeutical uses of Virtual Reality and the Metaverse in collaboration with NTNU and SENSE-GARDEN.
+* **Virtual Reality in Neuromedicine and Therapy**: We are exploring applied therapeutical uses of Virtual Reality and the Metaverse in collaboration with NTNU and SENSE-GARDEN. [Read more here](http://www.sense-garden.eu).
 
 * [Decentraland District](https://dgrmunch.github.io/blog/blog/2017/building-a-distributed-metaverse.html): In 2017 we were drafting a Decentralized Metaverse project based on A-Frame, Ethereum and IPFS. Some of the SciArt Lab Metaverse components were published in Twitter and we were mentioned a couple of times in the Week of A-Frame series, supported by Mozilla. Some weeks later, we were contacted by the founders of Decentraland offering a collaboration. With the help of Magg Architecture, we submited a project and we got an initial donation of 200 LAND from Decentraland and 8 LAND from other donors, which led us to start building the *SciArt Lab Metaverse* as a private district on Decentraland. This project currently serves as a host for different research and experimental projects, leasing programs and collaborations. Contact us (contact@sciartlab.com) or follow us on Twitter ([@sciartlab](http://www.sciartlab.com)) for more information.
 
