@@ -3,11 +3,13 @@
 
 ## Current projects
 
-* **Virtual Reality in Neuromedicine and Therapy**: We are starting to explore applied therapeutical uses of Virtual Reality in collaboration with a partner university (to be announced).
+* **Virtual Reality in Neuromedicine and Therapy**: We are exploring applied therapeutical uses of Virtual Reality and the Metaverse in collaboration with NTNU and SENSE-GARDEN.
 
-* [Decentraland District](https://dgrmunch.github.io/blog/blog/2017/building-a-distributed-metaverse.html): After some of the SciArt Lab Metaverse components were published in Github and Twitter, we were mentioned a couple of times in the Week of A-Frame series (supported by Mozilla). Some weeks later, in 2017, we were contacted by the team of Decentraland offering support for our project. Decentraland is one of the first blockchain-based metaverses before the term was even a hype. They raised $24 million during their ICO. We got an initial donation of 200 LAND from Decentraland and 8 LAND from other donors, which led us to start building the *SciArt Lab Metaverse* as a private district on the Ethereum blockchain. This project currently serves as a host for different research and experimental projects, leasing programs and collaborations.
+* [Decentraland District](https://dgrmunch.github.io/blog/blog/2017/building-a-distributed-metaverse.html): In 2017 we were drafting a Decentralized Metaverse project based on A-Frame, Ethereum and IPFS. Some of the SciArt Lab Metaverse components were published in Twitter and we were mentioned a couple of times in the Week of A-Frame series, supported by Mozilla. Some weeks later, we were contacted by the founders of Decentraland offering a collaboration. With the help of Magg Architecture, we submited a project and we got an initial donation of 200 LAND from Decentraland and 8 LAND from other donors, which led us to start building the *SciArt Lab Metaverse* as a private district on Decentraland. This project currently serves as a host for different research and experimental projects, leasing programs and collaborations. Contact us (contact@sciartlab.com) or follow us on Twitter ([@sciartlab](http://www.sciartlab.com)) for more information.
 
 * [NFT Licensing and Artistic Partnerships](projects/mutant9514.md): We support new creators in the NFT space and the Metaverse. We offer collaborations to emerging collectives and artists. We are part of **Bored Ape Yatch Club**. We are also part of other NFT Communities and projects like **World of Women**, **Women Rise**, **Boss Beauties** and some others. As owners of the IP over those artworks, we authorize derivatives over pieces of our NFT Collection for specific projects, non-profit compaigns, artistic experiments, or branding purposes.
+
+## Drafts
 
 * [P2P Schools](projects/p2p-schools-notes.md): Project to bring the principles of the **commons-based peer-production** approach to an educational context, embracing respectful practices and concepts like self-guided education, embodied cognition and sustainability. 
 
