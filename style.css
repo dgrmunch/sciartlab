@@ -285,6 +285,7 @@ h4 {
 h5 {
   font-size: 18px;
   line-height: 24px;
+  margin-bottom: 15px;
 }
 
 h6 {
@@ -1608,17 +1609,17 @@ section {
   height: 100%;
   z-index: 999999999999;
   text-align: center;
-  background: #000D81;
+  background: white;
   display: block;
   overflow: hidden;
 }
 .pre-loader .loader {
   position: absolute;
   left: 50%;
-  top: 50%;
+  bottom: 0%;
   transform: translate(-50%, -50%);
-  width: 150px;
-  height: 150px;
+  width: 50%;
+  height: 50%;
 }
 
 /* ----------------------------------
@@ -3417,7 +3418,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
     min-height: 60px;
     font-weight: 700;
     padding: 0px 25px;
-    color: #232328;
+    color: white;
     line-height: 60px;
     font-size: 14px;
   }
@@ -3656,7 +3657,9 @@ header .main-menu .menu-style-four ul li:hover .submenu {
 }
 @media (max-width: 500px) {
   .case-study-section .case-study-img img {
-    width: 70%;
+    width: 120%;
+    margin: 0 auto;
+    text-align: center;
   }
 }
 @media (max-width: 991px) {

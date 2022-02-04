@@ -12,7 +12,7 @@
 
     $(window).on('load', function() {
         // Animate loader off screen
-        $(".pre-loader").delay(500).fadeOut();
+        $(".pre-loader").delay(900).fadeOut();
     });
 
 
