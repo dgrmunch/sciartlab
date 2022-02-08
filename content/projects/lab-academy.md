@@ -21,7 +21,7 @@ Promoting Science, Art and Technology as emancipatory tools, we help future hack
 
 ## P2P Schools
 
-We are working on the draft of [P2P Schools](projects/p2p-schools-notes.md), a project to bring the principles of the **commons-based peer-production** approach to an educational context, embracing respectful practices and concepts like self-guided education, embodied cognition and sustainability. 
+We are working on the draft of [P2P Schools](p2p-schools-notes.md), a project to bring the principles of the **commons-based peer-production** approach to an educational context, embracing respectful practices and concepts like self-guided education, embodied cognition and sustainability. 
 
 **P2P Schools** is a post-digital model, with physical and embodied learning, although facilitated by a technological layer of informational and communication infrastructures.
 
@@ -31,7 +31,7 @@ Borrowing some literary jargon, it is intended to define a *solarpunk* alternati
 
 As an attempt to embrace freedom as an intrinsic part of learning, we borrow influences from historical pedagogies like the *Modern School* and the *Free School* movements, but also the compromise with social transformation and the search for social justice of *Critical Pedagogy*.  
 
-[Read more here](projects/p2p-schools-notes.md).
+[Read more here](p2p-schools-notes.md).
 
 
 ## Udemy Certified Masterclass
