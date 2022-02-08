@@ -1,6 +1,6 @@
 <img src="../../assets/img/lab-academy-logo-transparent-black.png" width="50%" />
 
-> Lab Academy is the educational brand of SciArt Lab. Here you will find information about our academic projects, workshows, master classes and educational activities.
+> Lab Academy is the educational brand of SciArt Lab. Here you will find information about our academic projects, workshops, master classes and educational activities.
 
 
 
