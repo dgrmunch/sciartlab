@@ -4100,8 +4100,9 @@ header .main-menu .menu-style-four ul li:hover .submenu {
 .call-to-action-wrap.cta-two-wrap .cta-banner .cta-btn {
   border-radius: 37.5px;
   border: 1px solid #f4b930;
-  background-color: transparent;
-  color: #FFF;
+  background-color: #f4b930;
+  color: black;
+  font-weight: bold;
 }
 .call-to-action-wrap.cta-two-wrap .cta-banner .cta-btn:hover {
   color: #FFF;
