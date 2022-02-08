@@ -3,8 +3,7 @@
 > Lab Academy is the educational brand of SciArt Lab. Here you will find information about our academic projects, workshops, master classes and educational activities.
 
 
-
-## STEAM Education & Commons Production
+## STEAM Education & Fun Science for Kids
 
 
 We believe in decentralized collaboration and collective production of knowledge. In addition to partnerships with universities and companies, we have an open network of collaborators oriented to contribute to the production of commons. 
@@ -20,12 +19,28 @@ Promoting Science, Art and Technology as emancipatory tools, we help future hack
 * Open Source Projects.
 
 
+## P2P Schools
+
+We are working on the draft of [P2P Schools](projects/p2p-schools-notes.md), a project to bring the principles of the **commons-based peer-production** approach to an educational context, embracing respectful practices and concepts like self-guided education, embodied cognition and sustainability. 
+
+**P2P Schools** is a post-digital model, with physical and embodied learning, although facilitated by a technological layer of informational and communication infrastructures.
+
+It is an attempt to share with others our own practices and preferences, while enabling others to do the same with theirs, assuming the heterogeneity of approaches and the importance of sharing both accumulated experience and empirical evidence as commons.
+
+Borrowing some literary jargon, it is intended to define a *solarpunk* alternative to top-down education, a model for a heterogenous ecosystem of learning processes out of dominant school systems, supported by global technology and distributed coordination mechanisms.
+
+As an attempt to embrace freedom as an intrinsic part of learning, we borrow influences from historical pedagogies like the *Modern School* and the *Free School* movements, but also the compromise with social transformation and the search for social justice of *Critical Pedagogy*.  
+
+[Read more here](projects/p2p-schools-notes.md).
+
 
 ## Udemy Certified Masterclass
 
-We also offer online courses about our areas of expertise. **Lab Academy** has presence in the [Decentraland metaverse](http://academy.sciartlab.com) and in [Udemy](http://p2p.essentials.sciartlab.com).
+Besides the non-profit activities of **Lab Academy**, we also offer online courses about our areas of expertise under the same brand. 
 
-You can enroll in our last masterclass, **P2P Essentials: Beyond Blockchain Technologies and NFTs** [here](http://p2p.essentials.sciartlab.com).
+**Lab Academy** has presence in the [Decentraland metaverse](http://academy.sciartlab.com) and in [Udemy](http://p2p.essentials.sciartlab.com).
+
+You can enroll in our masterclass, **P2P Essentials: Beyond Blockchain Technologies and NFTs** [here](http://p2p.essentials.sciartlab.com).
 
 ### P2P Essentials: Beyond Blockchain Technologies and NFTs
 
