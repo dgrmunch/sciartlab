@@ -10,40 +10,35 @@ As a non-human entity who lives in the blockchain, **Mutant #9514** can be a goo
 
 ### History
 
+#### Exhibition in Brooklin Coffee Shop
+
+* Our Mutant has been exhibited in **Lion's Milk**, [the first cafe/bar displaying NFTs (PFPs)](https://twitter.com/137pm/status/1489341125852860417) in Brooklin, New York. 
+
+
+![](../images/mario/coffee.png) 
+
 
 #### Non-Profit Social Campaigns
 
-**SciArt Lab** included [Marco Fine](https://www.instagram.com/p_ThaNerd/), Italian mural artist, in our **New Talents** program. Marco Fine was authorized to use **Mutant #9514** in his street art. He painted an amazing mural of our mutant in Florence (Italy). Marco accepted to include the hashtag **#mariowantstorun** to support our campaign for **Infantile Cerebral Palsy** (described below).
+**SciArt Lab** included [Marco Fine](https://www.instagram.com/p_ThaNerd/), Italian mural artist, in our **New Talents** program. Marco Fine was authorized to use **Mutant #9514** in his street art. He painted an amazing mural of our mutant in Florence (Italy). Marco accepted to include the hashtag **#mariowantstorun** to support our campaign for **Infantile Cerebral Palsy**.
 
 ![](../images/mario/marco.png)
 
-Mutants and superheroes share some characteristics. Both can do amazing things. And that is the reason for **Mutant #9514** to be the image of the first campaign in the *Metaverse* to raise funds and awareness about **Infantile Cerebral Palsy** and help little superheroes like Mario, a five-years-old kid whose dream is to be able to run one day. 
+Mutants and superheroes share some characteristics. Both can do amazing things. And that is the reason for **Mutant #9514** to be the image of the first campaign in the *Metaverse* to raise funds and awareness about **Infantile Cerebral Palsy** and help little superheroes like Mario, a five-years-old kid whose dream is to be able to run one day. Read more about the campaign and how to contribute [here](mario.md).
 
 ![](../images/mario/decentraland4.png) ![](../images/mario/mario2.png) ![](../images/mario/decentraland_.png) 
 
-
 The campaign **#mariowantstorun** has a virtual space in Decentraland and people all over the world are showing their support.
-
 
 ![](../images/mario/twitter.png)
 
-**The best way to contribute to the campaign is becoming directly a Patron of Mario's association here: https://www.patreon.com/mariowantstorun**
-
-* More information about the campaign:
-
-    * See the reactions of the community and their [virtual selfies with Mario](https://twitter.com/search?q=%23mariowantstorun&src=typed_query) on Twitter.
-    * Follow [Mario's Instagram](https://www.instagram.com/marietequierecorrer/?hl=en) and see how his life is.
-    * Contribute with a [donation by Paypal](https://www.paypal.me/marietequierecorrer).
-    * Learn about what we are doing in [Decentraland's Event page](https://events.decentraland.org/event/?id=4ea4641c-a4dd-43a7-b90e-1106ed890553).
-    * [Visit SciArt Lab Convention Center](https://play.decentraland.org/?position=10%2C52) and join the Metaverse campaign with your avatar.
 
 * In January 2022, **SciArt Lab** authorized [Perris Mackey](https://www.instagram.com/p_ThaNerd/), American collage artist, to use **Mutant #9514** in a piece of analog art. 25% of the benefits will be donated to [R.A.K.E (Random Acts of Kindness Everywhere)](http://www.rakenow.org/), a 501c3 non-profit organization based in Cleveland, Ohio. Additionally, Perris Mackey's artwork will include an easter egg with the hashtag **#mariowantstorun** to support the campaign.
 
-
 * The same month, [Moonie](https://twitter.com/Moonie69420), an American artist from Colorado, started oil painting a mutant with the hashtag  **#mariowantstorun**. The artwork will be sold in an auction and the benefits will be donated to the cause.
 
-
 ![](../images/mario/moonie.png) 
+
 
 #### Writing a book
 
