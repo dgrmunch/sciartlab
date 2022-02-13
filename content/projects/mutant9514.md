@@ -8,9 +8,31 @@ As a non-human entity who lives in the blockchain, **Mutant #9514** can be a goo
 **Mutant #9514** is an example of how one NFT can be used for a fascinating variety of purposes. For example, for raising awareness about social issues like **Infantile Cerebral Palsy** and improve people's lives. To learn more about everything our mutant has accomplished, keep reading.
 
 
-### History
 
-#### Exhibition in Brooklin Coffee Shop
+## Non-Profit Social Campaigns
+
+Mutants and superheroes share some characteristics. Both can do amazing things. And that is the reason for **Mutant #9514** to be the image of the first campaign in the *Metaverse* to raise funds and awareness about **Infantile Cerebral Palsy** and help little superheroes like Mario, a five-years-old kid whose dream is to be able to run one day. 
+
+**SciArt Lab** included [Marco Fine](https://www.instagram.com/p_ThaNerd/), Italian mural artist, in our **New Talents** program. Marco Fine was authorized to use **Mutant #9514** in his street art. He painted an amazing mural of our mutant in Florence (Italy). Marco accepted to include the hashtag **#mariowantstorun** to support our campaign for **Infantile Cerebral Palsy**.
+
+![](../images/mario/marco.png)
+
+In addition to Marco, other artists joined our campaing worldwide. For example, [Barış Atar](@barisatar), visual artist based in Istanbul, contributed to the campaign with an illustration of Mario hughing MAYC #9514, a derivative work based on [M. Ángeles Aznar Medina](https://mundoilustradoshop.com/)’s and Bored Ape Yatch Club's original artworks. Also [Moonie](https://twitter.com/Moonie69420), an American artist from Colorado, oil painted a mutant with the hashtag  **#mariowantstorun**. The artwork will be sold in an auction and the benefits will be donated to the cause.
+
+![](../images/mario/hug.png)
+
+
+**SciArt Lab** also developed a virtual space for the campaign in our Metaverse District in **Decentraland**. People all over the world showed their support. Read more about the campaign and how to contribute [here](mario.md).
+
+![](../images/mario/decentraland4.png) ![](../images/mario/mario2.png) ![](../images/mario/decentraland_.png) 
+
+
+![](../images/mario/twitter.png)
+
+
+* In January 2022, **SciArt Lab** authorized [Perris Mackey](https://www.instagram.com/p_ThaNerd/), American collage artist, to use **Mutant #9514** in a piece of analog art. 25% of the benefits will be donated to [R.A.K.E (Random Acts of Kindness Everywhere)](http://www.rakenow.org/), a 501c3 non-profit organization based in Cleveland, Ohio. Additionally, Perris Mackey's artwork will include an easter egg with the hashtag **#mariowantstorun** to support the campaign.
+
+## Exhibitions, cameos and collaborations
 
 * Our Mutant has been exhibited in **Lion's Milk**, [the first cafe/bar displaying NFTs (PFPs)](https://twitter.com/137pm/status/1489341125852860417) in Brooklin, New York. 
 
@@ -18,40 +40,32 @@ As a non-human entity who lives in the blockchain, **Mutant #9514** can be a goo
 ![](../images/mario/coffee.png) 
 
 
-#### Non-Profit Social Campaigns
+* Our mutant has been also selected to participate as an extra in one musical video of [ESCAPΞPLAN](https://twitter.com/escapeplanbayc), the world's first-ever Bored Ape producer-DJ duo.
 
-**SciArt Lab** included [Marco Fine](https://www.instagram.com/p_ThaNerd/), Italian mural artist, in our **New Talents** program. Marco Fine was authorized to use **Mutant #9514** in his street art. He painted an amazing mural of our mutant in Florence (Italy). Marco accepted to include the hashtag **#mariowantstorun** to support our campaign for **Infantile Cerebral Palsy**.
+* **Mutant #9514** will also participate with a cameo in a TV show of **Bored Ape Studios**, the Metaverse-first creative agency prepping Bored and Mutant Apes for commercial animations.
 
-![](../images/mario/marco.png)
+* This mutant was also licensed to **The Writer's Room** on **Jan 1, 2022**. New York Times bestseller writer **Neil Strauss**, in collaboration with the community of license holders, is working on the first blockchain-based collaborative writing book of history. **[[More info](https://www.jenkinsthevalet.com/press)]**
 
-Mutants and superheroes share some characteristics. Both can do amazing things. And that is the reason for **Mutant #9514** to be the image of the first campaign in the *Metaverse* to raise funds and awareness about **Infantile Cerebral Palsy** and help little superheroes like Mario, a five-years-old kid whose dream is to be able to run one day. Read more about the campaign and how to contribute [here](mario.md).
+## Brand development
 
-![](../images/mario/decentraland4.png) ![](../images/mario/mario2.png) ![](../images/mario/decentraland_.png) 
+Despite having IP rights over the artwork, we wanted to use our mutant as an inspiration to create our own visual story. With that purpose in mind, we hired [Andreas Damas](https://www.behance.net/andreasdamas), a graphic designer and illustrator based in Yogyakarta, Indonesia, to developed a visual concept of what SciArt Lab represents.
 
-The campaign **#mariowantstorun** has a virtual space in Decentraland and people all over the world are showing their support.
+![](../images/Evolution.jpeg)
 
-![](../images/mario/twitter.png)
+This drawing includes some foundational concepts which visually summarize our direction. The *mutant ape* represents our human nature as primates who are able to evolve and dynamically transform into something different through a lifetime. 
 
+The Virtual Reality glasses in combination with the brain represent our direction towards the intersections of neuroscience / mental health and the Metaverse. 
 
-* In January 2022, **SciArt Lab** authorized [Perris Mackey](https://www.instagram.com/p_ThaNerd/), American collage artist, to use **Mutant #9514** in a piece of analog art. 25% of the benefits will be donated to [R.A.K.E (Random Acts of Kindness Everywhere)](http://www.rakenow.org/), a 501c3 non-profit organization based in Cleveland, Ohio. Additionally, Perris Mackey's artwork will include an easter egg with the hashtag **#mariowantstorun** to support the campaign.
+The little pins on the jacket are actually two key symbols of our journey. One is the rotated hacker emblem that characterizes our SciArt Lab's logo (which embodies creativity and playful open-ended learning). The other is the enigmatic logo of Sense Garden, which reminds us of the importance of wellness and inner balance. 
 
-* The same month, [Moonie](https://twitter.com/Moonie69420), an American artist from Colorado, started oil painting a mutant with the hashtag  **#mariowantstorun**. The artwork will be sold in an auction and the benefits will be donated to the cause.
+Both are visual reminders of our mutant-like potential and represent foundational guidelines towards our next evolutionary steps. 
 
-![](../images/mario/moonie.png) 
+This visual concept summarizes our biological impulse towards multidisciplinary research,  creative experimentation, and unconventional innovation.
 
-
-#### Writing a book
-
-* **Mutant #9514** was licensed to **The Writer's Room** on **Jan 1, 2022**. New York Times bestseller writer **Neil Strauss**, in collaboration with the community of license holders, is working on the first blockchain-based collaborative writing book of history. **[[More info](https://www.jenkinsthevalet.com/press)]**
+It is our non-linguistic attempt to express our mission in a way that recognizes the importance of the NFT Community in our development as an independent brand pursuing its own dreams & goals.
 
 
-... And more news to come :)
-
-
-<br>
-<br>
-
-### Join us
+## Join us
 
 <br><br>
 
