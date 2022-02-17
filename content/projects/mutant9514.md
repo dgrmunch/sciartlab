@@ -1,7 +1,7 @@
 
 ![](../images/mutant9514.png)
 
-**Mutant #9514** is a NFT (Non Fungible Token) acquired by [**SciArt Lab**](https://www.sciartlab.com/) in 2021, with implicit ownership over the artwork, intelectual property rights and membership to [Bored Ape Yatch Club](https://boredapeyachtclub.com/). Since then, **Mutant #9514** has become an important part of our brand, turning into something like a mascot for our organization. 
+**Mutant #9514** is a NFT (Non Fungible Token) acquired by [**SciArt Lab**](https://www.sciartlab.com/) in 2021, with implicit ownership over the artwork, intelectual property rights and membership to [Bored Ape Yacht Club](https://boredapeyachtclub.com/). Since then, **Mutant #9514** has become an important part of our brand, turning into something like a mascot for our organization. 
 
 As a non-human entity who lives in the blockchain, **Mutant #9514** can be a good official face to represent everything we do commercially, but also to personify altruistic actions without a specific human face behind. In that regard, **SciArt Lab** decided to use the power of this image for *pro bono* work. Specially to support artists, experimental projects and social causes. 
 
@@ -17,7 +17,7 @@ Mutants and superheroes share some characteristics. Both can do amazing things. 
 
 ![](../images/mario/marco.png)
 
-In addition to Marco, other artists joined our campaing worldwide. For example, [Barış Atar](@barisatar), visual artist based in Istanbul, contributed to the campaign with an illustration of Mario hughing MAYC #9514, a derivative work based on [M. Ángeles Aznar Medina](https://mundoilustradoshop.com/)’s and Bored Ape Yatch Club's original artworks. Also [Moonie](https://twitter.com/Moonie69420), an American artist from Colorado, oil painted a mutant with the hashtag  **#mariowantstorun**. The artwork will be sold in an auction and the benefits will be donated to the cause.
+In addition to Marco, other artists joined our campaing worldwide. For example, [Barış Atar](@barisatar), visual artist based in Istanbul, contributed to the campaign with an illustration of Mario hughing MAYC #9514, a derivative work based on [M. Ángeles Aznar Medina](https://mundoilustradoshop.com/)’s and Bored Ape Yacht Club's original artworks. Also [Moonie](https://twitter.com/Moonie69420), an American artist from Colorado, oil painted a mutant with the hashtag  **#mariowantstorun**. The artwork will be sold in an auction and the benefits will be donated to the cause.
 
 ![](../images/mario/hug.png)
 
