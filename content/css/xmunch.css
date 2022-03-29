@@ -796,3 +796,15 @@ header .main-menu .menu-style-four ul li:hover .submenu {
 .header-five.sticky .menu-style-two ul li a {
   color: #FFF;
 }
+
+.center {
+  margin: 0 auto;
+  width: 50% !important;
+}
+
+.quote{
+  padding: 20px;
+  margin: 20px;
+  border: 1px dashed gray;
+  
+}
